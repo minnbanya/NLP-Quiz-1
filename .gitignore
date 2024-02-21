@@ -1,0 +1,5 @@
+*.pt
+*.vec
+!models/*.pt
+./vector_cache
+./models
